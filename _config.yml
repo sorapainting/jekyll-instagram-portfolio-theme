@@ -6,7 +6,7 @@ brand: Your Name
 headline: Inventor, Engineer and Futurist
 description: > # this means to ignore newlines until "baseurl:"
   New Site
-baseurl: "/weblog" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://sorapainting.github.io" # the base hostname & protocol for your site
 copyright: 2016 Whatever Company, Inc. All Rights Reserved.
 
